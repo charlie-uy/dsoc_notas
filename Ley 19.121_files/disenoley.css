@@ -1,0 +1,9 @@
+BODY {font: 9pt Arial; color: black; background: white;}
+TBODY {font: 9pt Arial; color: black;}
+P {font: 9pt Arial; text-align: justify;text-indent: 12px;}
+A:link {font: 9pt Arial;  color: #006699; font-weight:normal; text-decoration: none;}
+A:visited {font: 9pt Arial; color: #006699; font-weight:normal; text-decoration: none;}
+H2 {font:12pt Arial; color:black; font-weight:bold;}
+H3 {font:9pt Arial; color:black; font-weight:bold;}
+H4 {font:9pt Arial; color:black;}   
+H5 {font:8pt Verdana; color:black; font-weight:normal; font-style:italic;}
